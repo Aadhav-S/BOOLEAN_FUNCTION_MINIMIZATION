@@ -23,9 +23,12 @@ Hardware – PCs, Cyclone II , USB flasher
 **Truth Table**
 
 ![image](https://github.com/user-attachments/assets/6a9a6032-69a0-4c01-b008-365493a709d4)
+
 ![image](https://github.com/user-attachments/assets/f265cd6b-948b-4b66-875a-7bb343b56d1f)
 
+
 ![image](https://github.com/user-attachments/assets/5634d828-1f09-42b7-a469-667e6aaf3663)
+
 ![image](https://github.com/user-attachments/assets/b393e135-ab93-4cc3-95bc-acc5edcdb96a)
 
 
